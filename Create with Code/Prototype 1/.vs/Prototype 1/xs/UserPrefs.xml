@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{2201CC7D-DE28-3578-5930-53E92C6F9545}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 1/Scripts/SpinPropeller.cs">
+    <Files>
+      <File FileName="Assets/scripts/PlayerController.cs" Line="24" Column="46" />
+      <File FileName="Assets/scripts/FollowPlayer.cs" Line="11" Column="17" />
+      <File FileName="Assets/Challenge 1/Scripts/PlayerControllerX.cs" Line="30" Column="1" />
+      <File FileName="Assets/Challenge 1/Scripts/FollowPlayerX.cs" Line="8" Column="50" />
+      <File FileName="Assets/Challenge 1/Scripts/SpinPropeller.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prototype 1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Challenge 1" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="SpinPropeller.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="55d0eeae-96b1-45c0-b600-f1f9d87699f3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
